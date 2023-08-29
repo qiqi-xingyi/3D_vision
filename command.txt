@@ -1,0 +1,1 @@
+python train.py --img-size 640 --data data/coco.yaml --cfg models/yolov5x.yaml --weights weights/yolov5x.pt --batch-size 2 --epochs 100 --workers 0

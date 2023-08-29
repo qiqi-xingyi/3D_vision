@@ -1,0 +1,3 @@
+Goal_ID£ºCA004 ; Num£º4
+Goal_ID£ºCA002 ; Num£º1
+Goal_ID£ºCC002 ; Num£º1

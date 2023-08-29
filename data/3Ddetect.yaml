@@ -1,0 +1,7 @@
+train: ./3detect/images/train/
+val: ./3detect/images/val/
+nc: 16
+names: ['CA001' , 'CA002' , 'CA003', 'CA004' , 
+        'CB001' , 'CB002' , 'CB003' , 'CB004' , 
+        'CC001' , 'CC002' , 'CC003' , 'CC004' , 
+        'CD001' , 'CD002' , 'CD003' , 'CD004']
